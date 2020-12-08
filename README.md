@@ -5,3 +5,4 @@ such as regression as well as some time-series analysis with trend and seasonali
 To make the system more user friendly , It is necessary to create a front end that makes
 the application accessible to users who are not well versed in machine learning or
 operations of python.
+![Optional Text](../master/Screenshots/Selectcity.png)
